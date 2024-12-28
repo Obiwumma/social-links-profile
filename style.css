@@ -46,4 +46,18 @@ img{
 }
 li{
   list-style: none;
+  background-color: #444343;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  justify-content: center;
+  width: 220px;
+  height: 25px;
+  border-radius: 5px;
+  padding-top: 9px;
+  font-size: 12px;
+  font-weight: 600;
+}
+ul{
+  padding: 0;
 }
